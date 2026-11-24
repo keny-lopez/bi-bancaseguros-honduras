@@ -1,0 +1,9 @@
+CanalID,TipoCanal,Sucursal
+CAN-01,Banca,Tegucigalpa Centro
+CAN-02,Banca,Tegucigalpa Blvd. Morazán
+CAN-03,Banca,San Pedro Sula Centro
+CAN-04,Banca,San Pedro Sula Circunvalación
+CAN-05,Banca,La Ceiba
+CAN-06,Banca,Choluteca
+CAN-07,Directo,Agente directo
+CAN-08,Directo,Correduría externa

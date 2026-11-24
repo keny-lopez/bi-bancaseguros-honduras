@@ -1,0 +1,9 @@
+ProductoID,Ramo,TipoCobertura,PrimaBaseMensual
+PRD-01,Vida,Individual,280
+PRD-02,Vida,Colectivo,180
+PRD-03,Incendio y líneas aliadas,Individual,320
+PRD-04,Incendio y líneas aliadas,Colectivo,250
+PRD-05,Salud y hospitalización,Individual,650
+PRD-06,Salud y hospitalización,Colectivo,480
+PRD-07,Vehículos,Individual,750
+PRD-08,Vehículos,Colectivo,600
